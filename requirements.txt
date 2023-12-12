@@ -1,0 +1,6 @@
+pandas
+numpy 
+click
+typing_extensions
+zenml
+streamlit
